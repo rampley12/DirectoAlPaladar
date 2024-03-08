@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "id": "f75b",
+      "nombreProducto": "cafe",
+      "precio": "5555",
+      "imagen": "https://images.pexels.com/photos/2608410/pexels-photo-2608410.jpeg",
+      "categoria": "Dulce",
+      "descripcion_breve": "aaaaaaaaaa",
+      "descripcion_amplia": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "id": "fdfb",
+      "nombreProducto": "pasta",
+      "precio": "120",
+      "imagen": "https://images.pexels.com/photos/17692688/pexels-photo-17692688/free-photo-of-makarna-yemegi.jpeg",
+      "categoria": "Salado",
+      "descripcion_breve": "pasta ricas",
+      "descripcion_amplia": "pasta casera con salsa de verdeo"
+    }
+  ]
+}
